@@ -11,7 +11,7 @@ programa {
   potencia = 1
 
   para(i = 1; i <= n2; i++){
-    potencia = potencia * n2
+    potencia = potencia * n1
   }
 
   escreva(n1, " elevado a ", n2, " é: ", potencia)
